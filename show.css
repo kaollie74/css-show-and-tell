@@ -1,0 +1,27 @@
+h1 {
+    color: beige;
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 50px;
+}
+
+html{
+    background-image: url(daylight-environment-forest.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.secondBackground {
+    height: 700px;
+    display: block;
+    position: relative;
+    background-color: rgba(0, 0,0, 0.5)
+}
+
+#text {
+    font-size: 30px;
+    color: white;
+    margin: 10px 10px;
+}

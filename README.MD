@@ -1,0 +1,3 @@
+# css-show-and-tell
+
+Css background-images can add a lot of flavor to a page, when used right. Despite what it can bring to the table, it can also hinder your web page as well. Some of the difficulties is getting the image to fit appropriately to the page. One example to do this is using the 'background-size: cover;' trick, however, this doesn't always work. Another hinderance is getting your text or other features to appear readable on the page. On this particular assignment. I tries creating a second background to give an illusion that the transparency of the background image has been adjusted. 
